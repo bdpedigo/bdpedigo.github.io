@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Benjamin Pedigo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Biomedical Engineering PhD student at Johns Hopkins University, Neurodata lab. Interested in understanding connectomes with data science and statistics!"
   location         : "Baltimore, MD"
   employer         : "Johns Hopkins University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=IDgpHugAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
