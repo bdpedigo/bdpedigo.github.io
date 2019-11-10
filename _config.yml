@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Benjamin Pedigo"
   avatar           : "profile.png"
-  bio              : "Biomedical Engineering PhD student at Johns Hopkins University, Neurodata lab. Interested in understanding connectomes with data science and statistics!"
+  bio              : "Biomedical Engineering PhD student in Neurodata lab, Johns Hopkins University. Interested in understanding connectomes with data science and statistics."
   location         : "Baltimore, MD"
-  employer         : "Johns Hopkins University"
+  employer         : "JHU BME"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IDgpHugAAAAJ&hl=en"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9519-1190"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
