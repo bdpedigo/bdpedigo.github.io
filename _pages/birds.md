@@ -25,4 +25,4 @@ evolve-photo:
 {% include archive-single.html %}
 {% endfor %}
 
-{% include flexgallery id="evolve-photo" caption="Evolving photography - using a compact digital camera, a digital SLR and then a smartphone camera (Pictures courtesy of Aravind Iyer)"%}
+{% include flexgallery id="evolve-photo" %}
