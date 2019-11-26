@@ -6,7 +6,7 @@ author_profile: true
 entries_layout: grid
 evolve-photo:
 - aspect: "1.3333"
-  url: "eastern_bluebird.jpg"
+  url: "/images/eastern_bluebird.jpg"
   image_path: "/images/eastern_bluebird.jpg"
   alt: "Eastern bluebird"
 - aspect: "0.75"
