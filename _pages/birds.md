@@ -9,6 +9,7 @@ evolve-photo:
   url: "/images/eastern_bluebird.jpg"
   image_path: "/images/eastern_bluebird.jpg"
   alt: "Eastern bluebird"
+  caption: "Eastern bluebird - Sialia sialis"
 - aspect: "1"
   url: "/images/annas_hummingbird.jpg"
   image_path: "/images/annas_hummingbird.jpg"
