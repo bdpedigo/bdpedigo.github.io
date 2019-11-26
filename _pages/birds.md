@@ -31,11 +31,4 @@ evolve-photo:
 
 
 
-<!-- {% include base_path %} -->
-
-
-<!-- {% for post in site.portfolio %}
-{% include archive-single.html %}
-{% endfor %} -->
-
 {% include flexgallery id="evolve-photo" %}
