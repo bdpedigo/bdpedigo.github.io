@@ -30,9 +30,9 @@ While I was there, I worked in Dr. Chet Moritz's lab, investigating whether opto
 techniques could help restore motor function after a spinal cord injury. I also spent a
 summer as an intern at the
 [Allen Institute for Brain Science](https://alleninstitute.org/what-we-do/brain-science/), 
-working on a projectto collect a nanoscale connectome from a cubic millimeter of mouse
+working on a project to collect a nanoscale connectome from a cubic millimeter of mouse
 visual cortex.
 
-Outside of research, I enjoy birdwatching, hiking, backpacking, bouldering, and beer. 
+Outside of research, I enjoy birdwatching, backpacking, bouldering, and beer. 
 
 
