@@ -31,7 +31,7 @@ evolve-photo:
 
 
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 
 <!-- {% for post in site.portfolio %}
