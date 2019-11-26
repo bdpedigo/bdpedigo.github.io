@@ -19,7 +19,7 @@ evolve-photo:
   url: "/images/horned_lark2.jpg"
   image_path: "/images/horned_lark2.jpg"
   alt: "Horned lark"
-- aspect: "1.8"
+- aspect: "1.77"
   url: "/images/spotted_sandpiper.jpg"
   image_path: "/images/spotted_sandpiper.jpg"
   alt: "Spotted sandpiper"
