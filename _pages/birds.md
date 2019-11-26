@@ -39,5 +39,6 @@ evolve-photo:
   alt: "Black vulture"
 ---
 
+When I can, I like to go birding, and occasionally I take pictures. 
 
 {% include flexgallery id="evolve-photo" %}
