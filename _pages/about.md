@@ -10,8 +10,7 @@ redirect_from:
 
 ![](/images/grassy_me.jpg)
 
-About me
----
+
 I am a second-year PhD student in the Deparment of Biomedical Engineering at Johns 
 Hopkins University. I am advised by Joshua Vogelstein in the
 [Neurodata](https://neurodata.io/) lab. My work focuses on using statistical and 
@@ -23,7 +22,7 @@ Python package for doing statistical analyses of network-valued data. I am broad
 interested in making data analysis techniques in neuroscience more accessible through 
 open-source software. 
 
-History
+About me
 ---
 I grew up in [Lake Forest Park, WA](https://goo.gl/maps/DdsMTKyRPeEFe5yK9), just north
 of Seattle. I received a B.S. in Bioengineering from the University of Washington. 
@@ -33,5 +32,7 @@ summer as an intern at the
 [Allen Institute for Brain Science](https://alleninstitute.org/what-we-do/brain-science/), 
 working on a projectto collect a nanoscale connectome from a cubic millimeter of mouse
 visual cortex.
+
+Outside of research, I enjoy birdwatching, hiking, backpacking, bouldering, and beer. 
 
 
