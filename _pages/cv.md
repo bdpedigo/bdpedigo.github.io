@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
+* (In progress) PhD in Biomedical Engineering, Johns Hopkins University, 2018 - 2023 (expected)
 * B.S. in Bioengineering, University of Washington, 2014 - 2018
    - Minor in Applied Mathematics
    - Graduated summa cum laude
-* (In progress) Ph.D. in Biomedical Engineering, Johns Hopkins University, 2018 - 2023 (expected)
 
 Research experience
 ======
+* Summer 2018 - Present: PhD Student, [Neurodata lab](https://neurodata.io) 
+* Summer 2017: Computational Neuroanatomy Intern, Allen Institute for Brain Science
+* Summer 2016 - Spring 2018: Undergraduate Researcher, Moritz Lab
 <!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
