@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-!(/images/grassy_me.png)
+![](/images/grassy_me.png)
 
 About me
 ---
@@ -28,6 +28,10 @@ History
 I grew up in [Lake Forest Park, WA](https://goo.gl/maps/DdsMTKyRPeEFe5yK9), just north
 of Seattle. I received a B.S. in Bioengineering from the University of Washington. 
 While I was there, I worked in Dr. Chet Moritz's lab, investigating whether optogenetic
-techniques could help restore motor function after a spinal cord injury. 
+techniques could help restore motor function after a spinal cord injury. I also spent a
+summer as an intern at the
+[Allen Institute for Brain Science](https://alleninstitute.org/what-we-do/brain-science/), 
+working on a projectto collect a nanoscale connectome from a cubic millimeter of mouse
+visual cortex.
 
 
