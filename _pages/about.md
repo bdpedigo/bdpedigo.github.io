@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+!(/images/grassy_me.png)
+
+About me
+---
 I am a second-year PhD student in the Deparment of Biomedical Engineering at Johns 
 Hopkins University. I am advised by Joshua Vogelstein in the
 [Neurodata](https://neurodata.io/) lab. My work focuses on using statistical and 
@@ -19,5 +23,11 @@ Python package for doing statistical analyses of network-valued data. I am broad
 interested in making data analysis techniques in neuroscience more accessible through 
 open-source software. 
 
+History
+---
+I grew up in [Lake Forest Park, WA](https://goo.gl/maps/DdsMTKyRPeEFe5yK9), just north
+of Seattle. I received a B.S. in Bioengineering from the University of Washington. 
+While I was there, I worked in Dr. Chet Moritz's lab, investigating whether optogenetic
+techniques could help restore motor function after a spinal cord injury. 
 
 
