@@ -15,7 +15,7 @@ evolve-photo:
   image_path: "/images/annas_hummingbird.jpg"
   alt: "Anna's hummingbird"
   end_row: "true"
-- aspect: "1"
+- aspect: "0.75"
   url: "/images/horned_lark2.jpg"
   image_path: "/images/horned_lark2.jpg"
   alt: "Horned lark"
