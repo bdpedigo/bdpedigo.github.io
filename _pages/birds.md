@@ -15,8 +15,8 @@ evolve-photo:
   alt: "Anna's hummingbird"
   end_row: "true"
 - aspect: "1"
-  url: "/images/horned_lark.jpg"
-  image_path: "/images/horned_lark.jpg"
+  url: "/images/horned_lark2.jpg"
+  image_path: "/images/horned_lark2.jpg"
   alt: "Horned lark"
 - aspect: "1"
   url: "/images/says_phobe.jpg"
@@ -27,8 +27,16 @@ evolve-photo:
   image_path: "/images/spotted_sandpiper.jpg"
   alt: "Spotted sandpiper"
   end_row: "true"
+- aspect: "1"
+  url: "/images/sooty_grouse.jpg"
+  image_path: "/images/sooty_grouse.jpg"
+  alt: "Sooty grouse"
+- aspect: "1"
+  url: "/images/black_vulture.jpg"
+  image_path: "/images/black_vulture.jpg"
+  alt: "Black vulture"
+  end_row: "true"
 ---
-
 
 
 {% include flexgallery id="evolve-photo" %}
