@@ -8,11 +8,11 @@ evolve-photo:
 - aspect: "1.3333"
   url: "eastern_bluebird.jpg"
   image_path: "eastern_bluebird.jpg"
-  alt: "Close up of a butterfly"
+  alt: "Eastern bluebird"
 - aspect: "0.75"
   url: "annas_hummingbird.jpg"
   image_path: "annas_hummingbird.jpg"
-  alt: "Reflection of skyscrapers in water"
+  alt: "Anna's hummingbird"
   end_row: "true"
 ---
 
