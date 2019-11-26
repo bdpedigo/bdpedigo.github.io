@@ -12,7 +12,7 @@ evolve-photo:
 - aspect: "0.75"
   url: "annas_hummingbird.jpg"
   image_path: "/images/annas_hummingbird.jpg"
-  alt: "Anna's hummingbird"
+  alt: "Anna's hummingbird here"
   end_row: "true"
 ---
 
