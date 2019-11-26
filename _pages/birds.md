@@ -33,14 +33,14 @@ evolve-photo:
   image_path: "/images/black_vulture.jpg"
   alt: "Black vulture"
   end_row: "true"
-- aspect: "1.775"
-  url: "/images/sooty_grouse.jpg"
-  image_path: "/images/sooty_grouse.jpg"
-  alt: "Sooty grouse"
 - aspect: "1"
   url: "/images/bald_eagle.jpg"
   image_path: "/images/bald_eagle.jpg"
   alt: "Bald eagle"
+- aspect: "1.775"
+  url: "/images/sooty_grouse.jpg"
+  image_path: "/images/sooty_grouse.jpg"
+  alt: "Sooty grouse"
   end_row: "true"
 ---
 
