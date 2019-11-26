@@ -5,14 +5,14 @@ permalink: /birds/
 author_profile: true
 entries_layout: grid
 evolve-photo:
-- aspect: "1.3333"
+- aspect: "1"
   url: "/images/eastern_bluebird.jpg"
   image_path: "/images/eastern_bluebird.jpg"
   alt: "Eastern bluebird"
-- aspect: "0.75"
-  url: "annas_hummingbird.jpg"
+- aspect: "1"
+  url: "/images/annas_hummingbird.jpg"
   image_path: "/images/annas_hummingbird.jpg"
-  alt: "Anna's hummingbird here"
+  alt: "Anna's hummingbird"
   end_row: "true"
 ---
 
@@ -21,8 +21,8 @@ evolve-photo:
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+<!-- {% for post in site.portfolio %}
 {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 {% include flexgallery id="evolve-photo" %}
