@@ -4,17 +4,16 @@ title: "Birds"
 permalink: /birds/
 author_profile: true
 entries_layout: grid
-
 evolve-photo:
 - aspect: "1.3333"
-url: "eastern-bluebird.jpg"
-image_path: "eastern_bluebird.jpg"
-alt: "Close up of a butterfly"
+  url: "eastern-bluebird.jpg"
+  image_path: "eastern_bluebird.jpg"
+  alt: "Close up of a butterfly"
 - aspect: "0.75"
-url: "annas-hummingbird.jpg"
-image_path: "annas_hummingbird.jpg"
-alt: "Reflection of skyscrapers in water"
-end_row: "true"
+  url: "annas-hummingbird.jpg"
+  image_path: "annas_hummingbird.jpg"
+  alt: "Reflection of skyscrapers in water"
+  end_row: "true"
 ---
 
 
