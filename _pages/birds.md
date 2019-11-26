@@ -26,6 +26,7 @@ evolve-photo:
   url: "/images/spotted_sandpiper.jpg"
   image_path: "/images/spotted_sandpiper.jpg"
   alt: "Spotted sandpiper"
+  end_row: "true"
 ---
 
 
