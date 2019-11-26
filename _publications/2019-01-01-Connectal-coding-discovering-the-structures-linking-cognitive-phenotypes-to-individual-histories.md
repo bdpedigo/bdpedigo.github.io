@@ -6,4 +6,4 @@ date: 2019-01-01
 venue: 'Current opinion in neurobiology'
 citation: ' Joshua Vogelstein,  Eric Bridgeford,  Benjamin Pedigo,  Jaewon Chung,  Keith Levin,  Brett Mensh,  Carey Priebe, &quot;Connectal coding: discovering the structures linking cognitive phenotypes to individual histories.&quot; Current opinion in neurobiology, 2019.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Connectal+coding:+discovering+the+structures+linking+cognitive+phenotypes+to+individual+histories){:target="_blank"} for full citation
+[Google Scholar](https://scholar.google.com/scholar?q=Connectal+coding:+discovering+the+structures+linking+cognitive+phenotypes+to+individual+histories){:target="_blank"}
