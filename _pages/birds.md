@@ -6,11 +6,11 @@ author_profile: true
 entries_layout: grid
 evolve-photo:
 - aspect: "1.3333"
-  url: "eastern-bluebird.jpg"
+  url: "eastern_bluebird.jpg"
   image_path: "eastern_bluebird.jpg"
   alt: "Close up of a butterfly"
 - aspect: "0.75"
-  url: "annas-hummingbird.jpg"
+  url: "annas_hummingbird.jpg"
   image_path: "annas_hummingbird.jpg"
   alt: "Reflection of skyscrapers in water"
   end_row: "true"
