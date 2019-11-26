@@ -39,6 +39,8 @@ evolve-photo:
   alt: "Black vulture"
 ---
 
-When I can, I like to go birding, and occasionally I take pictures. 
+When I can, I like to go birding, usually in Washington State or Maryland. 
+Occasionally I take pictures. Most of these are taken with my phone through my spotting
+scope.
 
 {% include flexgallery id="evolve-photo" %}
