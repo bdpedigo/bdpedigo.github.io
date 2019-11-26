@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Benjamin Pedigo"
+excerpt: "Benjamin Pedigo"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![](/images/grassy_me.png)
+![](/images/grassy_me.jpg)
 
 About me
 ---
