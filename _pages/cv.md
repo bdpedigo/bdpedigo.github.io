@@ -27,14 +27,23 @@ Research experience
 
 - **PhD student**, [Neurodata lab](https://neurodata.io), *Summer 2018 - Present*
   - Advisor: Joshua Vogelstein
+  - Co-lead developer of [GraSPy](https://graspy.neurodata.io), a Python package for 
+  statistical analysis of network-valued data
+  - Current project: Analysis of *Drosophila* larva brain connectome in collaboration 
+  with [Carey Priebe](https://www.ams.jhu.edu/~priebe/) (JHU), [Albert Cardona](https://www.pdn.cam.ac.uk/directory/albert-cardona) (MRC LMB/Cambridge), and [Marta Zlatic](https://www.zoo.cam.ac.uk/research/neurobiology-biomechanics-and-behaviour/zlatic_group) (MRC LMB/Cambridge) groups
 - **Computational Neuroanatomy Intern**,
 [Allen Institute for Brain Science](https://alleninstitute.org/what-we-do/brain-science/), 
 *Summer 2017*
   - Advisor: Nuno da Costa
+  - Developed quality control metrics for image alignment in Python, part of an effort to 
+  collect electron microscopy images from a cubic millimeter of mouse visual cortex
 - **Undergraduate Researcher**,
 [Restorative Technologies Lab](http://depts.washington.edu/moritlab/),
 *Summer 2016 - Spring 2018*
   - Advisors: Chet Moritz, Sarah Mondello
+  - Designed and built a system for delivering optogenetic stimulation to the spinal 
+  cord in a rat model of spinal cord injury, while measuring temperature production
+  - Investigated optogenetic stimulation parameters for biocompatibility
 
 Publications
 ======
