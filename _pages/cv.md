@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 Education
-
 ======
 
 - **PhD in Biomedical Engineering**, Johns Hopkins University (JHU), *2018 - 2023 (expected)*
@@ -24,7 +23,6 @@ Education
     Algorithms, High Performance Scientific Computing
 
 Research experience
-
 ======
 
 - **PhD student**, [Neurodata lab](https://neurodata.io), *Summer 2018 - Present*
@@ -39,7 +37,6 @@ Research experience
   - Advisors: Chet Moritz, Sarah Mondello
 
 Publications
-
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
