@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---------
 
 - **PhD in Biomedical Engineering**, Johns Hopkins University (JHU), *2018 - 2023 (expected)*
   - Highlighted courses: Neuro Data Design, Matrix Theory, Neuroscience and Cognition,
@@ -23,7 +23,7 @@ Education
     Algorithms, High Performance Scientific Computing
 
 Research experience
-======
+-------------------
 
 - **PhD student**, [Neurodata lab](https://neurodata.io), *Summer 2018 - Present*
   - Advisor: Joshua Vogelstein
@@ -46,10 +46,40 @@ Research experience
   - Investigated optogenetic stimulation parameters for biocompatibility
 
 Publications
-======
+------------
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+------
+
+- **Expert:** Python
+- **Proficient:** Git, Matlab, Java, Latex
+- **Novice:** R, C++
+
+
+Awards
+------
+
+- [Levinson Emerging Scholars Award](https://www.washington.edu/undergradresearch/students/funding/levinson/scholars/2017-18-levinson-scholars/)
+- [UW Institute for Neuroengineering Undergraduate Research Fellowship](http://uwin.washington.edu/students/undergraduate-students/current/)
+- [Center for Sensorimotor Neural Engineering](http://www.csne-erc.org/) Research Fellowship
+- [Mary Gates Research Scholarship](http://expd.uw.edu/mge/apply/research/) (2)
+
+Teaching
+--------
+
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
+
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
   
 <!-- Talks
 ======
@@ -65,20 +95,3 @@ Publications
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3 -->
-
-Awards
-======
-- [Levinson Emerging Scholars Award](https://www.washington.edu/undergradresearch/students/funding/levinson/scholars/2017-18-levinson-scholars/)
-- [UW Institute for Neuroengineering Undergraduate Research Fellowship](http://uwin.washington.edu/students/undergraduate-students/current/)
-- [Center for Sensorimotor Neural Engineering](http://www.csne-erc.org/) Research Fellowship
-- [Mary Gates Research Scholarship](http://expd.uw.edu/mge/apply/research/) (2)
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
