@@ -8,8 +8,6 @@ tags:
   - feedforward
 ---
 
-# Signal flow
-
 The following is some derivation of the "signal flow" calculation for a directed network used in _Varshney et al. 2011_ [1], as well as my own implementation and some simple simulations to attempt to understand this function better.
 
 Feedback welcome!
