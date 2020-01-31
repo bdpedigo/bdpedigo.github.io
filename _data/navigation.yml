@@ -7,7 +7,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/Benjamin_D_Pedigo_CV.pdf #/cv/
   
   - title: "Blog"
     url: /year-archive/
