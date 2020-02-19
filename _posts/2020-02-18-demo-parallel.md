@@ -8,7 +8,7 @@ tags:
   - random numbers
 ---
 
-<pre>
+{%
 python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -19,9 +19,9 @@ from sklearn.cluster import KMeans
 from sklearn.datasets import make_blobs
 from sklearn.metrics import adjusted_rand_score
 from sklearn.mixture import GaussianMixture
-</pre>
+%}
 
- # Getting random numbers
+ ## Getting random numbers
  The following is one of the simplest ways that one could generate many random
  numbers, which are useful in almost any scientific computing application
 
@@ -42,7 +42,7 @@ print(outs)
     [28863715, 20470441, 59601088, 35178672, 31953535, 54920184, 6437049, 49557007, 32591667, 33196361, 14963174, 59717179, 32480075, 70590040, 82187373, 67242005, 76389711, 43332706, 66541139, 8632395]
 
 
- # Make the above stuff in my for loop into a function
+ ## Make the above stuff in my for loop into a function
  The first step to getting to something we can do in Joblib is to turn the stuff
  we had in a for loop into a function
 
