@@ -8,7 +8,8 @@ tags:
   - random numbers
 ---
 
-```python
+<pre>
+python
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -18,8 +19,7 @@ from sklearn.cluster import KMeans
 from sklearn.datasets import make_blobs
 from sklearn.metrics import adjusted_rand_score
 from sklearn.mixture import GaussianMixture
-
-```
+</pre>
 
  # Getting random numbers
  The following is one of the simplest ways that one could generate many random
