@@ -21,9 +21,9 @@ from sklearn.metrics import adjusted_rand_score
 from sklearn.mixture import GaussianMixture
 ```
 
- ## Getting random numbers
- The following is one of the simplest ways that one could generate many random
- numbers, which are useful in almost any scientific computing application
+## Getting random numbers
+The following is one of the simplest ways that one could generate many random
+numbers, which are useful in almost any scientific computing application
 
 
 ```python
@@ -42,9 +42,9 @@ print(outs)
     [28863715, 20470441, 59601088, 35178672, 31953535, 54920184, 6437049, 49557007, 32591667, 33196361, 14963174, 59717179, 32480075, 70590040, 82187373, 67242005, 76389711, 43332706, 66541139, 8632395]
 
 
- ## Make the above stuff in my for loop into a function
- The first step to getting to something we can do in Joblib is to turn the stuff
- we had in a for loop into a function
+## Make the above stuff in my for loop into a function
+The first step to getting to something we can do in Joblib is to turn the stuff
+we had in a for loop into a function
 
 
 ```python
@@ -67,8 +67,8 @@ print(outs)
     [28863715, 20470441, 59601088, 35178672, 31953535, 54920184, 6437049, 49557007, 32591667, 33196361, 14963174, 59717179, 32480075, 70590040, 82187373, 67242005, 76389711, 43332706, 66541139, 8632395]
 
 
- ## Now, do it in parallel
- With Joblib, parallelizing the above is super easy!
+## Now, do it in parallel
+With Joblib, parallelizing the above is super easy!
 
 
 ```python
@@ -82,7 +82,7 @@ print(outs)
     [49298211, 960679, 7840371, 75202960, 28282479, 7528719, 99466831, 76798086, 61512489, 60087525, 55473392, 85450202, 13124747, 14944763, 92530329, 29784778, 16918058, 67836125, 81264675, 73960372]
 
 
- ## But is it reproducible?
+## But is it reproducible?
 
 
 ```python
@@ -96,11 +96,11 @@ print(outs)  # note that now we don't get reproducible results!
     [11772194, 70427031, 91672483, 58518373, 42038149, 42933984, 3123949, 96178412, 41251378, 27098387, 98151772, 22073752, 87024182, 39619220, 78539229, 47795066, 77917795, 25815037, 54690881, 72367281]
 
 
- ## Get random numbers in parallel, reproducibly
- Even when setting the random seed in the above, we did not get reproducible results.
- To make this happen, I usually just start by generating a long list of random seeds
- (starting from a random seed, of course) and then pass those seeds down to the
- individual jobs.
+## Get random numbers in parallel, reproducibly
+Even when setting the random seed in the above, we did not get reproducible results.
+To make this happen, I usually just start by generating a long list of random seeds
+(starting from a random seed, of course) and then pass those seeds down to the
+individual jobs.
 
 
 ```python
@@ -122,7 +122,7 @@ print(outs)
     [46621082, 97292465, 84093849, 69981988, 69717233, 28029841, 53811122, 71335538, 50534020, 6092775, 87017978, 84213854, 7721363, 31245923, 89469332, 30208313, 81965930, 74720508, 80658938, 82125302]
 
 
- ## Check that we now get reproducible results
+## Check that we now get reproducible results
 
 
 ```python
@@ -138,7 +138,7 @@ print(outs)
     [46621082, 97292465, 84093849, 69981988, 69717233, 28029841, 53811122, 71335538, 50534020, 6092775, 87017978, 84213854, 7721363, 31245923, 89469332, 30208313, 81965930, 74720508, 80658938, 82125302]
 
 
- ## Simple demo with Gaussian blobs
+## Simple demo with Gaussian blobs
 
 
 ```python
@@ -179,8 +179,8 @@ ax.axis("off")
 ![png](/images/demo_parallel_files/demo_parallel_16_1.png)
 
 
- ## Look at the performance of two different clustering algorithms
- Here we'll just look at a single dataset and see how K-means and GMM perform
+## Look at the performance of two different clustering algorithms
+Here we'll just look at a single dataset and see how K-means and GMM perform
 
 
 ```python
@@ -239,9 +239,9 @@ axs[1].set_title(f"ARI: {gmm_ari}")
 ![png](/images/demo_parallel_files/demo_parallel_18_2.png)
 
 
- ## Now run an actual experiment over many random inits
- Here is an example of how we could profile the performance of these two algorithms
- over many random samples using Joblib
+## Now run an actual experiment over many random inits
+Here is an example of how we could profile the performance of these two algorithms
+over many random samples using Joblib
 
 
 ```python
