@@ -35,7 +35,7 @@ evolve-photo:
   end_row: "true"
 - aspect: "1"
   url: "/images/night_heron.jpg"
-  image_path: "/images/black_vulture.jpg"
+  image_path: "/images/night_heron.jpg"
   alt: "Yellow-crowned night heron"
 - aspect: "1.775"
   url: "/images/kestrel.jpg"
