@@ -42,19 +42,19 @@ evolve-photo:
   image_path: "/images/kestrel.jpg"
   alt: "Kestrel"
   end_row: "true"
-- aspect: "1"
-  url: "/images/bald_eagle.jpg"
-  image_path: "/images/bald_eagle.jpg"
-  alt: "Bald eagle"
 - aspect: "1.775"
   url: "/images/sooty_grouse.jpg"
   image_path: "/images/sooty_grouse.jpg"
   alt: "Sooty grouse"
+- aspect: "1"
+  url: "/images/bald_eagle.jpg"
+  image_path: "/images/bald_eagle.jpg"
+  alt: "Bald eagle"
   end_row: "true"
 ---
 
 When I can, I like to go birding, usually in Washington State or Maryland. 
-Occasionally I take pictures. Most of these are taken with my phone through my spotting
+Occasionally I take pictures. Most of these are taken with my phone through a spotting
 scope.
 
 {% include flexgallery id="evolve-photo" %}
