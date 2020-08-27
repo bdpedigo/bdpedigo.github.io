@@ -51,8 +51,6 @@ evolve-photo:
   image_path: "/images/bald_eagle.jpg"
   alt: "Bald eagle"
   end_row: "true"
-- aspect: "1"
-  url: "/images/
 ---
 
 When I can, I like to go birding, usually in Washington State or Maryland. 
