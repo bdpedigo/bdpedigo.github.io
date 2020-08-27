@@ -98,6 +98,7 @@ for pubsource in publist:
             citation = ""
 
             # citation authors - todo - add highlighting for primary author?
+            print(bibdata.entries[bib_id])
             for author in bibdata.entries[bib_id].persons["author"]:
                 citation = (
                     citation
