@@ -25,6 +25,15 @@ evolve-photo:
   alt: "Spotted sandpiper"
   end_row: "true"
 - aspect: "1.775"
+  url: "/images/barred_owl_wink.jpg"
+  image_path: "/images/barred_owl_wink.jpg"
+  alt: "Barred owl"
+- aspect: "1.775"
+  url: "/images/barred_owl_stump.jpg"
+  image_path: "/images/barred_owl_stump.jpg"
+  alt: "Barred owl"
+  end_row: "true"
+- aspect: "1.775"
   url: "/images/says_phobe.jpg"
   image_path: "/images/says_phobe.jpg"
   alt: "Say's phobe"
@@ -51,6 +60,8 @@ evolve-photo:
   image_path: "/images/bald_eagle.jpg"
   alt: "Bald eagle"
   end_row: "true"
+- aspect: "1"
+  url: "/images/
 ---
 
 When I can, I like to go birding, usually in Washington State or Maryland. 
