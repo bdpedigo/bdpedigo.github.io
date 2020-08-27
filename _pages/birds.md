@@ -25,15 +25,6 @@ evolve-photo:
   alt: "Spotted sandpiper"
   end_row: "true"
 - aspect: "1.775"
-  url: "/images/barred_owl_wink.jpg"
-  image_path: "/images/barred_owl_wink.jpg"
-  alt: "Barred owl"
-- aspect: "1.775"
-  url: "/images/barred_owl_stump.jpg"
-  image_path: "/images/barred_owl_stump.jpg"
-  alt: "Barred owl"
-  end_row: "true"
-- aspect: "1.775"
   url: "/images/says_phobe.jpg"
   image_path: "/images/says_phobe.jpg"
   alt: "Say's phobe"
@@ -69,3 +60,13 @@ Occasionally I take pictures. Most of these are taken with my phone through a sp
 scope.
 
 {% include flexgallery id="evolve-photo" %}
+
+# - aspect: "1.775"
+#   url: "/images/barred_owl_wink.jpg"
+#   image_path: "/images/barred_owl_wink.jpg"
+#   alt: "Barred owl"
+# - aspect: "1.775"
+#   url: "/images/barred_owl_stump.jpg"
+#   image_path: "/images/barred_owl_stump.jpg"
+#   alt: "Barred owl"
+#   end_row: "true"
