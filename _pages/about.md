@@ -32,7 +32,8 @@ techniques could help restore motor function after a spinal cord injury. I also 
 summer as an intern at the
 [Allen Institute for Brain Science](https://alleninstitute.org/what-we-do/brain-science/), 
 working on a project to collect a nanoscale connectome from a cubic millimeter of mouse
-visual cortex.
+visual cortex. During my PhD, I was an intern with Team Essex at Microsoft Research, 
+exploring techniques for graph and sequence embeddings and visualization.
 
 Outside of research, I enjoy birdwatching, biking, backpacking, bouldering, and beer. 
 
