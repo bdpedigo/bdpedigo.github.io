@@ -11,7 +11,7 @@ redirect_from:
 ![](/images/grassy_me.jpg)
 
 
-I am a third-year PhD student in the Deparment of Biomedical Engineering at Johns 
+I am a third-year PhD candidate in the Deparment of Biomedical Engineering at Johns 
 Hopkins University. I am advised by Joshua Vogelstein in the
 [Neurodata](https://neurodata.io/) lab. My work focuses on using statistical and 
 computational techniques to help understand
