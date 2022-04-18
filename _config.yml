@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benjamin Pedigo"
+  name             : "Benjamin D. Pedigo"
   avatar           : "profile.png"
   bio              : "Biomedical Engineering PhD Student | NeuroData Lab | Johns Hopkins University | Research: Connectomes, network data science, statistics, open-source software"
   location         : "Baltimore, MD"
