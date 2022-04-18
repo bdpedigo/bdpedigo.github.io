@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Benjamin Pedigo"
-excerpt: "Benjamin Pedigo"
+title: "Benjamin D. Pedigo"
+excerpt: "Benjamin D. Pedigo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 ![](/images/grassy_me.jpg)
 
 
-I am a third-year PhD candidate in the Deparment of Biomedical Engineering at Johns 
+I am a fourth-year PhD candidate in the Deparment of Biomedical Engineering at Johns 
 Hopkins University. I am advised by Joshua Vogelstein in the
 [Neurodata](https://neurodata.io/) lab. My work focuses on using statistical and 
 computational techniques to help understand
@@ -35,6 +35,4 @@ working on a project to collect a nanoscale connectome from a cubic millimeter o
 visual cortex. During my PhD, I was an intern with Team Essex at Microsoft Research, 
 exploring techniques for graph and sequence embeddings and visualization.
 
-Outside of research, I enjoy birdwatching, biking, backpacking, bouldering, and beer. 
-
-
+Outside of research, I enjoy birdwatching, biking, backpacking, and bouldering. 
