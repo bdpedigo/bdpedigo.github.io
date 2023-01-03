@@ -11,7 +11,7 @@ redirect_from:
 ![](/images/grassy_me.jpg)
 
 
-I am a fourth-year PhD candidate in the Deparment of Biomedical Engineering at Johns 
+I am a fifth-year PhD candidate in the Deparment of Biomedical Engineering at Johns 
 Hopkins University. I am advised by Joshua Vogelstein in the
 [Neurodata](https://neurodata.io/) lab. My work focuses on using statistical and 
 computational techniques to help understand
@@ -22,6 +22,8 @@ I am also a developer of [graspologic](https://github.com/microsoft/graspologic)
 Python package for doing statistical analyses of network data which we now co-develop with
 Microsoft Research. I am broadly interested in making data analysis techniques in 
 neuroscience more accessible through open-source software. 
+
+I plan on graduating in June 2023 and am looking for research opportunities!
 
 About me
 ---
