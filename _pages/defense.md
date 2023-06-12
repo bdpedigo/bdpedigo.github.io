@@ -24,8 +24,10 @@ Room 110
 
 OR
 
-Zoom Meeting: https://JHUBlueJays.zoom.us/j/95377851708?pwd=NVFlRStZSzg4SEFxNGlKWVBxeWI3QT09
+Zoom Meeting: [Link](https://JHUBlueJays.zoom.us/j/95377851708?pwd=NVFlRStZSzg4SEFxNGlKWVBxeWI3QT09)
+
 Meeting ID: 953 7785 1708
+
 Passcode: 184998
 
 **Why:**
