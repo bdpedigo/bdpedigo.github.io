@@ -34,7 +34,7 @@ Passcode: 184998
 
 **Why:**
 The PhD defense is also traditionally somewhat of a celebration - if you're seeing 
-this, you've been a helpful part of Ben's journey towards getting a PhD, and he is 
+this, you've been part of Ben's journey towards getting a PhD, and he is 
 grateful for that! You are welcome to join the fun and hear about Ben's research, but 
 there is absolutely *no pressure to attend or watch on Zoom.*
 
