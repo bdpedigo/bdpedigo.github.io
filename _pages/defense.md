@@ -19,7 +19,9 @@ Friday, June 23rd, 2023
 12:00 PM (Noon) *Eastern Time*
 
 **Where:**
-Clark Hall, Johns Hopkins University, Homewood Campus
+
+Clark Hall, Johns Hopkins University (Homewood Campus)
+
 Room 110
 
 OR
